@@ -22,9 +22,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git://github.com/bensimpson-ch/translation.simpson.services.git</connection>
-		<developerConnection>scm:git:git@github.com:bensimpson-ch/translation.simpson.services.git</developerConnection>
-		<url>https://github.com/bensimpson-ch/translation.simpson.services</url>
+		<connection>scm:git:git://github.com/bensimpson-ch/translation-simpson-services.git</connection>
+		<developerConnection>scm:git:git@github.com:bensimpson-ch/translation-simpson-services.git</developerConnection>
+		<url>https://github.com/bensimpson-ch/translation-simpson-services</url>
 		<tag>HEAD</tag>
 	</scm>
 

@@ -1,6 +1,6 @@
-# translation.simpson.services
+# translation-simpson-services
 
-[![](https://jitpack.io/v/bensimpson-ch/translation.simpson.services.svg)](https://jitpack.io/#bensimpson-ch/translation.simpson.services)
+[![](https://jitpack.io/v/bensimpson-ch/translation-simpson-services.svg)](https://jitpack.io/#bensimpson-ch/translation-simpson-services)
 
 Shared libraries for translation messaging between services that communicate via Apache Kafka.
 
@@ -32,7 +32,7 @@ Add the JitPack repository and dependency to your Maven project:
 </repositories>
 
 <dependency>
-    <groupId>com.github.bensimpson-ch.translation.simpson.services</groupId>
+    <groupId>com.github.bensimpson-ch.translation-simpson-services</groupId>
     <artifactId>messaging-types</artifactId>
     <version>1.0.0</version>
 </dependency>
