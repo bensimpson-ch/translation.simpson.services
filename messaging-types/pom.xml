@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>services.simpson.translation</groupId>
 		<artifactId>translation</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0.0</version>
 	</parent>
 	<artifactId>messaging-types</artifactId>
 	<name>messaging-types</name>
