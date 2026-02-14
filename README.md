@@ -34,7 +34,7 @@ Add the JitPack repository and dependency to your Maven project:
 <dependency>
     <groupId>com.github.bensimpson-ch.translation.simpson.services</groupId>
     <artifactId>messaging-types</artifactId>
-    <version>v1.0.0</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
